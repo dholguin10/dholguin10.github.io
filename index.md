@@ -1,123 +1,52 @@
----
-layout: default
----
+[Linkedin]((https://www.linkedin.com/in/diego-holguin-796466225/)).
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# About Me
 
-[Link to another page](./another-page.html).
+## Summary
 
-There should be whitespace between paragraphs.
+Dedicated professional with strong customer service and multitasking skills. Proven ability to enhance guest experiences while maintaining composure in high-pressure environments. Technical proficiency in software and point-of-sale systems supports efficient operations and customer engagement.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Skills 
 
-# Header 1
+* Point of Sales Systems                        * Communication Skills
+* Conflict Resolution                           * Customer Service 
+* Microsoft Office (Word, PowerPoint, Excel)    * Sales Strategies 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Experience
 
-## Header 2
+### **Reselling (Online)**
+### _01/2016 - Current_
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+1. Identified product trends to enhance profit margins
+2. Formulated strategies to reduce expenses and increase profitability
+3. Developed strategies to address potential losses from declining product trends
 
-### Header 3
+### Yard House | Carlsbad, CA
+### **Bartender/Server/Busser**
+### _01/2023 - 04/2026_
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+1. Prepared alcoholic and non-alcoholic beverages to enhance the guest experience
+2. Maintained calm and poise during busy periods to ensure exceptional customer service
+3. Cultivated communication skills to foster positive relationships with team members
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+### Chili's Grill & Bar | Vista, CA
+### **Server/Food Runner**
+### _06/2021 - 04/2023_
 
-#### Header 4
+1. Delivered an exceptional guest experience by focusing on detail-oriented service
+2. Greeted customers, anwsered questions, and recommended specials to enhance sales
+3. Resolved on the spot issues effectively to maintain service flow
+   
+## Education
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+### California State University San Marcos | San Marcos, CA
+### ** Master of Science in Supply Chain Analytics**
+### _Expected 2027_
 
-##### Header 5
+### California State University San Marcos | San Marcos, CA
+### **Bachelor of Science in Finance**
+### _2026_
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+### Palomar Community College | San Marcos, CA
+### **Associate of Science in Business Administration**
+### _2026_
