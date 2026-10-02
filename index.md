@@ -1,4 +1,4 @@
-[Linkedin]((https://www.linkedin.com/in/diego-holguin-796466225/)).
+[Linkedin]((https://www.linkedin.com/in/diego-holguin-796466225/))
 
 # About Me
 
