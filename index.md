@@ -8,10 +8,13 @@ Dedicated professional with strong customer service and multitasking skills. Pro
 
 ## Skills 
 
-* Point of Sales Systems                        * Communication Skills
-* Conflict Resolution                           * Customer Service 
-* Microsoft Office (Word, PowerPoint, Excel)    * Sales Strategies 
-
+* Point of Sales Systems                        
+* Conflict Resolution                           
+* Microsoft Office (Word, PowerPoint, Excel)   
+* Communication Skills
+* Customer Service
+* Sales Strategies
+  
 ## Experience
 
 ### **Reselling (Online)**
