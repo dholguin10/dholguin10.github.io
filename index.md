@@ -47,7 +47,7 @@ Dedicated professional with strong customer service and multitasking skills. Pro
 ## Education
 
 ### California State University San Marcos | San Marcos, CA
-### ** Master of Science in Supply Chain Analytics**
+### **Master of Science in Supply Chain Analytics**
 ### _Expected 2027_
 
 ### California State University San Marcos | San Marcos, CA
