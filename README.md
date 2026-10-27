@@ -49,3 +49,9 @@ Bachelor of Science in Supply Chain Management
 - Delivered an exceptional guest experience by focusing on detail-oriented service
 - Greeted customers, anwsered questions, and recommended specials to enhance sales
 - Resolved on the spot issues effectively to maintain service flow
+
+## Projects
+
+### E-Portfolio Creation Guide
+
+portfolio-guide/
