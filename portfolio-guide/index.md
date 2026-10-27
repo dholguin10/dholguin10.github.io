@@ -13,3 +13,16 @@ When customizing the website I added specific subsections and bolded them to hig
 - Jekyll Documentation
 - GitHib Pages Documentation
 - OM 620 & OM 621 course material
+## Screenshots
+### Repository Setup
+repository.png
+This screenshot shows my GitHub repository and portfolio files.
+### Homepage Development
+index.png
+This screenshot shows the development of my portfolio homepage.
+### Professional Headshot
+headshot.png
+This image was added to personalize my e-portfolio.
+### Final E-Portfolio
+finalportfolio.png
+This screenshot shows the completed portfolio website.
