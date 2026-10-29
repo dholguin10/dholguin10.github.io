@@ -62,4 +62,4 @@ Dedicated professional with strong customer service and multitasking skills. Pro
 
 ### E-Portfolio Creation Guide
 
-portfolio-guide/
+[View Guide](portfolio-guide/)
