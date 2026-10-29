@@ -54,4 +54,4 @@ Bachelor of Science in Supply Chain Management
 
 ### E-Portfolio Creation Guide
 
-portfolio-guide/
+[View Guide](portfolio-guide/)
