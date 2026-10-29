@@ -57,3 +57,9 @@ Dedicated professional with strong customer service and multitasking skills. Pro
 ### Palomar Community College | San Marcos, CA
 ### **Associate of Science in Business Administration**
 ### _2026_
+
+## Projects
+
+### E-Portfolio Creation Guide
+
+portfolio-guide/
