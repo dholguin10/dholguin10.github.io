@@ -63,3 +63,7 @@ Dedicated professional with strong customer service and multitasking skills. Pro
 ### E-Portfolio Creation Guide
 
 [View Guide](portfolio-guide/)
+
+### OM 620 – Safety Stock Analysis
+
+[View Project](OM620/)
