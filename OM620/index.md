@@ -42,7 +42,7 @@ This README walks through every step, from opening the files to getting the fina
 2. Unzip the download.
 3. Open the **data** folder and unzip **transaction_data.csv.zip**. The data file was too big to upload to GitHub without zipping it.
 
-![Screenshot: the project folders after unzipping](images/step1-folders.png)
+![Screenshot: the project folders after unzipping](https://raw.githubusercontent.com/dholguin10/OM620/main/images/Step1-folders.png)
 
 ## Step 2: Open the Notebook in VS Code
 
@@ -52,7 +52,7 @@ This README walks through every step, from opening the files to getting the fina
 4. The notebook opens. Gray boxes are code. White boxes are notes.
 5. To run a code box, click it and press **Shift + Enter**. The result shows up under the box.
 
-![Screenshot: the notebook open in VS Code](images/step2-vscode.png)
+![Screenshot: the notebook open in VS Code](https://raw.githubusercontent.com/dholguin10/OM620/main/images/step2-vscode.png)
 
 ## Step 3: Load the Data
 
@@ -63,7 +63,7 @@ We loaded two files:
 
 Each order tells us the product (called a SKU), what type of item it is, how long it takes to arrive (lead time), the price, where it was made, the date, and how many were ordered.
 
-![Screenshot: the first few rows of the order data](images/step3-load-data.png)
+![Screenshot: the first few rows of the order data](https://raw.githubusercontent.com/dholguin10/OM620/main/images/step3-load-data.png)
 
 ## Step 4: Fix the Column Names
 
@@ -75,7 +75,7 @@ Three column names were typed wrong or did not match the others. We renamed them
 
 Now every column name is lowercase and uses underscores, just like the meta data file.
 
-![Screenshot: the column names after fixing them](images/step4-columns.png)
+![Screenshot: the column names after fixing them](https://raw.githubusercontent.com/dholguin10/OM620/main/images/step4-columns.png)
 
 ## Step 5: Find and Fix Strange Numbers
 
@@ -101,9 +101,9 @@ We used a summary of the numbers to look for anything that did not make sense. W
 
 We also found 44 orders that were exact copies of other orders. A product can be ordered more than once on the same day, so we kept them.
 
-![Screenshot: the number summary before the fixes](images/step5-before.png)
+![Screenshot: the number summary before the fixes](https://raw.githubusercontent.com/dholguin10/OM620/main/images/step5-before.png)
 
-![Screenshot: the number summary after the fixes](images/step5-after.png)
+![Screenshot: the number summary after the fixes](https://raw.githubusercontent.com/dholguin10/OM620/main/images/step5-after.png)
 
 ## Step 6: Deal with Missing Information
 
@@ -114,7 +114,7 @@ Some rows had blank spots. Here is what we did:
 
 After this step we had 724,354 rows and no blanks left.
 
-![Screenshot: count of blanks in each column after the fix](images/step6-missing.png)
+![Screenshot: count of blanks in each column after the fix](https://raw.githubusercontent.com/dholguin10/OM620/main/images/step6-missing.png)
 
 ## Step 7: Add a Country Column
 
@@ -126,7 +126,7 @@ Each factory code starts with a country code, for example US-1F or JP-C7. We use
 - JP = Japan
 - Anything else = Unknown
 
-![Screenshot: the new country column](images/step7-country.png)
+![Screenshot: the new country column](https://raw.githubusercontent.com/dholguin10/OM620/main/images/step7-county.png)
 
 ## Step 8: Keep Only the Products We Need
 
@@ -144,7 +144,7 @@ This left us with:
 
 The largest single order was 208 units.
 
-![Screenshot: the filtered data](images/step8-filter.png)
+![Screenshot: the filtered data](https://raw.githubusercontent.com/dholguin10/OM620/main/images/step8-filter.png)
 
 ## Step 9: Summarize Each Product
 
@@ -164,7 +164,7 @@ We noticed the products fell into two groups:
 - **225 products** with small orders (about 9 units each) and short lead times (about 15 days)
 - **150 products** with big orders (about 77 units each) and long lead times (about 26 days)
 
-![Screenshot: the summary table for each product](images/step9-summary.png)
+![Screenshot: the summary table for each product](https://raw.githubusercontent.com/dholguin10/OM620/main/images/step9-summary.png)
 
 ## Step 10: Calculate Safety Stock
 
@@ -184,7 +184,7 @@ The higher the service level, the more safety stock you need. Average safety sto
 - 90% service level: about 83 units
 - 95% service level: about 106 units
 
-![Screenshot: safety stock for each product at the three service levels](images/step10-safety-stock.png)
+![Screenshot: safety stock for each product at the three service levels](https://raw.githubusercontent.com/dholguin10/OM620/main/images/step10-safety-stock.png)
 
 ## Step 11: Look at the Results (95% Service Level)
 
@@ -196,7 +196,7 @@ The largest is about 11 times the smallest. This shows why one number for every 
 
 We also checked whether orders of 0 units changed our answers. Taking them out moved the average by less than 1 unit, so we kept them.
 
-![Screenshot: largest, smallest, and average safety stock](images/step11-results.png)
+![Screenshot: largest, smallest, and average safety stock](https://raw.githubusercontent.com/dholguin10/OM620/main/images/step11-results.png)
 
 ## Step 12: Try a Second Method (Side Quest)
 
@@ -208,7 +208,7 @@ The formula in Step 10 assumes orders follow a bell-curve shape. Some products d
 
 This shows the formula can overestimate safety stock for products whose orders do not follow a bell curve.
 
-![Screenshot: comparing the two methods](images/step12-compare.png)
+![Screenshot: comparing the two methods](https://raw.githubusercontent.com/dholguin10/OM620/main/images/step12-compare.png)
 
 ---
 
